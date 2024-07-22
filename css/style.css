@@ -133,3 +133,13 @@ button{
     border-radius: 8px;
     border: 2px solid white;
 }
+
+.footer{
+    background-color: #1F2937;
+    color: #E5E7EB;
+    align-items: flex-end;
+    padding:20px;
+    font-size: 10px;
+    text-align: center;
+
+}
